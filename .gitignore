@@ -1,4 +1,11 @@
 __pycache__/
 *.pyc
 .venv/
+venv/
 .python-version
+
+.env
+
+.DS_Store
+# memoe 삭제
+memo_ktb/
